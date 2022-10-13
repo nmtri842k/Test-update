@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: TomHuman-Setup-1.0.0.exe
+    sha512: LRR+r7ynLZ5Vh3HjBK9m8bQmrfs3Isw6nqbBnItNYEaUBQ9z92Ne26xiRqdF16A9fDozXcmMRvELuHbRtmK4QQ==
+    size: 66524839
+path: TomHuman-Setup-1.0.0.exe
+sha512: LRR+r7ynLZ5Vh3HjBK9m8bQmrfs3Isw6nqbBnItNYEaUBQ9z92Ne26xiRqdF16A9fDozXcmMRvELuHbRtmK4QQ==
+releaseDate: '2022-10-13T03:03:08.213Z'
